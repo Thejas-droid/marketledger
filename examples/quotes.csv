@@ -1,0 +1,7 @@
+timestamp,venue,instrument,bid,ask,bid_size,ask_size
+0,North,ALPHA,9980,10000,25,20
+0,South,ALPHA,10025,10040,10,15
+1,North,BETA,1990,2010,50,30
+1,South,BETA,2000,2020,40,40
+2,North,ALPHA,9990,10000,20,12
+2,South,ALPHA,10030,10050,8,10

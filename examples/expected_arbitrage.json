@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "mode": "snapshot_analysis",
+  "opportunities": [
+    {
+      "instrument": "ALPHA",
+      "buy_venue": "North",
+      "sell_venue": "South",
+      "buy_price_cents": 10000,
+      "sell_price_cents": 10030,
+      "quantity": 8,
+      "net_per_unit_cents": 26,
+      "potential_profit_cents": 208
+    }
+  ]
+}

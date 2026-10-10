@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Market Ledger</title><desc id="desc">Deterministic market simulation. C++17, local execution, integer-cent accounting.</desc>
+<rect width="1200" height="320" rx="18" fill="#101316"/>
+<g stroke="#27332c" stroke-width="1"><path d="M660 65H1150M660 120H1150M660 175H1150M660 230H1150M720 40V265M820 40V265M920 40V265M1020 40V265M1120 40V265"/></g>
+<g fill="#bded85"><rect x="64" y="64" width="8" height="25" rx="2"/><rect x="78" y="51" width="8" height="38" rx="2"/><rect x="92" y="37" width="8" height="52" rx="2"/></g>
+<text x="64" y="153" fill="#edf1ed" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-3">Market Ledger</text>
+<text x="67" y="192" fill="#a0ada8" font-family="Arial,Helvetica,sans-serif" font-size="21">Deterministic market simulation.</text>
+<text x="67" y="258" fill="#bded85" font-family="monospace" font-size="13" letter-spacing="2">C++17 / OFFLINE / OPEN SOURCE</text>
+<path d="M680 230L750 230L750 207L805 207L805 180L860 180L860 143L925 143L925 110L1000 110L1000 80L1110 80" stroke="#bded85" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<circle cx="1110" cy="80" r="6" fill="#bded85"/><text x="780" y="285" fill="#a0ada8" font-family="monospace" font-size="12" letter-spacing="2">REPLAY. MATCH. ANALYZE.</text>
+</svg>

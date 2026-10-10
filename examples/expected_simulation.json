@@ -1,0 +1,99 @@
+{
+  "version": "1.0.0",
+  "mode": "simulation",
+  "submitted_orders": 12,
+  "trade_count": 6,
+  "units_traded": 13,
+  "turnover_cents": 122050,
+  "expired_orders": 1,
+  "self_trade_preventions": 1,
+  "resting_orders": 3,
+  "trades": [
+    {
+      "timestamp": 1,
+      "instrument": "ALPHA",
+      "buy_order": "B1",
+      "sell_order": "S2",
+      "buyer": "Cedar",
+      "seller": "Beacon",
+      "price_cents": 9950,
+      "quantity": 3
+    },
+    {
+      "timestamp": 1,
+      "instrument": "ALPHA",
+      "buy_order": "B1",
+      "sell_order": "S1",
+      "buyer": "Cedar",
+      "seller": "Atlas",
+      "price_cents": 10000,
+      "quantity": 2
+    },
+    {
+      "timestamp": 2,
+      "instrument": "ALPHA",
+      "buy_order": "B2",
+      "sell_order": "S1",
+      "buyer": "Delta",
+      "seller": "Atlas",
+      "price_cents": 10000,
+      "quantity": 4
+    },
+    {
+      "timestamp": 5,
+      "instrument": "BETA",
+      "buy_order": "B3",
+      "sell_order": "S4",
+      "buyer": "Cedar",
+      "seller": "Beacon",
+      "price_cents": 2100,
+      "quantity": 1
+    },
+    {
+      "timestamp": 6,
+      "instrument": "BETA",
+      "buy_order": "B3",
+      "sell_order": "S5",
+      "buyer": "Cedar",
+      "seller": "Atlas",
+      "price_cents": 2100,
+      "quantity": 1
+    },
+    {
+      "timestamp": 8,
+      "instrument": "ALPHA:1|BETA:2",
+      "buy_order": "B4",
+      "sell_order": "S6",
+      "buyer": "Cedar",
+      "seller": "Atlas",
+      "price_cents": 14000,
+      "quantity": 2
+    }
+  ],
+  "brokers": [
+    {
+      "broker": "Atlas",
+      "bought": 0,
+      "sold": 9,
+      "net_cash_cents": 90100
+    },
+    {
+      "broker": "Beacon",
+      "bought": 0,
+      "sold": 4,
+      "net_cash_cents": 31950
+    },
+    {
+      "broker": "Cedar",
+      "bought": 9,
+      "sold": 0,
+      "net_cash_cents": -82050
+    },
+    {
+      "broker": "Delta",
+      "bought": 4,
+      "sold": 0,
+      "net_cash_cents": -40000
+    }
+  ]
+}
